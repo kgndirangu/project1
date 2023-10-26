@@ -70,6 +70,10 @@ PA: $8,398
 CA: $11,617
 TX: $9,075
 
+Is there a relationship between total discharges and average amount paid?
+There is a weak negative correlation.  
+
+
 Summary Analysis:
 1.  CA is the #1 State with the most Medicare beneficiaries while PA ranked 5th.
 2. Respiratory Infection and Inflammation is the #1 condition during the year 2021.
