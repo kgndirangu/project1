@@ -81,17 +81,3 @@ Summary Analysis:
 4. CA ranked #1 State in Total Discharges while PA ranked 5th.  
 5. Septicemia or Severe Sepsis is less submitted in NY but got the most Medicare payment.
 
-Breakdown of Tasks:
-Clean up – Kerigo 
-Use Pandas to clean and format your dataset or datasets. 
-Create a Jupyter notebook describing the data exploration and cleanup process.
-Analysis - Ved
-Create a Jupyter notebook illustrating the final data analysis.
-Use Matplotlib to create 6 to 8 visualizations of your data  (ideally, at least 2 visualizations per “question” that you ask your data).
-Save PNG images of your visualizations to distribute to the class and instructional team—and for inclusion in your presentation.
-Write-up - Teresita 
-Create a write-up summarizing your major findings. This should include a heading for each “question” that you asked your data as well as a short description of your findings and any relevant plots.
-Presentation - Eirynell 
-
-
-
